@@ -8,6 +8,8 @@ En este manual del usuario trataremos de explicar el uso de este software dedica
 aquellas personas que quieren alquilar sus casas para poder obtener algo de dinero,
 permitiendo así a los clientes poder disfrutar de un alojamiento mas barato que cualquier
 hotel.
+El primer paso es extraer el archivo zip.
+Para ejecutar la aplicación se ejecuta el archivo FernanBNBejecutable.
 Muy importante, para poder acceder a este software será necesario tener instalado Java
 19 y configurar el path.
 2. Propietario
